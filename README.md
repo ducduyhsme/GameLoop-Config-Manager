@@ -1,5 +1,3 @@
-# GameLoop-Config-Manager
-
 # About
 This script lets you save configs to a custom directory and import/export GameLoop configs.
 
